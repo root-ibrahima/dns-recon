@@ -193,3 +193,4 @@ README.md                        # Ce fichier
 - [ ] Streaming results to file (pas tout en mémoire)
 - [ ] Stats per TLD / per resolver
 # dns_recon
+# dns-recon
