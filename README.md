@@ -192,7 +192,3 @@ README.md                        # Ce fichier
 - [ ] Panic recovery in worker
 - [ ] Streaming results to file (pas tout en mémoire)
 - [ ] Stats per TLD / per resolver
-
----
-
-**Utilité réelle** : Ce tool résout un vrai besoin en reconnaissance réseau. Il est assez simple pour être lisible en entretien, assez complet pour montrer de la maîtrise des patterns Go. Les concepts (concurrence, context, interfaces, JSON) reviennent partout dans les vrais projets.
