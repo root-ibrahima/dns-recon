@@ -192,5 +192,3 @@ README.md                        # Ce fichier
 - [ ] Panic recovery in worker
 - [ ] Streaming results to file (pas tout en mémoire)
 - [ ] Stats per TLD / per resolver
-# dns_recon
-# dns-recon
